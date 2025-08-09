@@ -1,0 +1,15 @@
+C:\Users\elike\OneDrive\Desktop\Dcit318-assignment2-11315710\Dcit318-assignment2-11315710\bin\Debug\net8.0\Dcit318-assignment2-11315710.exe
+C:\Users\elike\OneDrive\Desktop\Dcit318-assignment2-11315710\Dcit318-assignment2-11315710\bin\Debug\net8.0\Dcit318-assignment2-11315710.deps.json
+C:\Users\elike\OneDrive\Desktop\Dcit318-assignment2-11315710\Dcit318-assignment2-11315710\bin\Debug\net8.0\Dcit318-assignment2-11315710.runtimeconfig.json
+C:\Users\elike\OneDrive\Desktop\Dcit318-assignment2-11315710\Dcit318-assignment2-11315710\bin\Debug\net8.0\Dcit318-assignment2-11315710.dll
+C:\Users\elike\OneDrive\Desktop\Dcit318-assignment2-11315710\Dcit318-assignment2-11315710\bin\Debug\net8.0\Dcit318-assignment2-11315710.pdb
+C:\Users\elike\OneDrive\Desktop\Dcit318-assignment2-11315710\Dcit318-assignment2-11315710\obj\Debug\net8.0\Dcit318-assignment2-11315710.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elike\OneDrive\Desktop\Dcit318-assignment2-11315710\Dcit318-assignment2-11315710\obj\Debug\net8.0\Dcit318-assignment2-11315710.AssemblyInfoInputs.cache
+C:\Users\elike\OneDrive\Desktop\Dcit318-assignment2-11315710\Dcit318-assignment2-11315710\obj\Debug\net8.0\Dcit318-assignment2-11315710.AssemblyInfo.cs
+C:\Users\elike\OneDrive\Desktop\Dcit318-assignment2-11315710\Dcit318-assignment2-11315710\obj\Debug\net8.0\Dcit318-assignment2-11315710.csproj.CoreCompileInputs.cache
+C:\Users\elike\OneDrive\Desktop\Dcit318-assignment2-11315710\Dcit318-assignment2-11315710\obj\Debug\net8.0\Dcit318-assignment2-11315710.sourcelink.json
+C:\Users\elike\OneDrive\Desktop\Dcit318-assignment2-11315710\Dcit318-assignment2-11315710\obj\Debug\net8.0\Dcit318-assignment2-11315710.dll
+C:\Users\elike\OneDrive\Desktop\Dcit318-assignment2-11315710\Dcit318-assignment2-11315710\obj\Debug\net8.0\refint\Dcit318-assignment2-11315710.dll
+C:\Users\elike\OneDrive\Desktop\Dcit318-assignment2-11315710\Dcit318-assignment2-11315710\obj\Debug\net8.0\Dcit318-assignment2-11315710.pdb
+C:\Users\elike\OneDrive\Desktop\Dcit318-assignment2-11315710\Dcit318-assignment2-11315710\obj\Debug\net8.0\Dcit318-assignment2-11315710.genruntimeconfig.cache
+C:\Users\elike\OneDrive\Desktop\Dcit318-assignment2-11315710\Dcit318-assignment2-11315710\obj\Debug\net8.0\ref\Dcit318-assignment2-11315710.dll
